@@ -1,0 +1,25 @@
+
+------------------Curso Linux-------------
+
+20/04 a 25/04 --------Tudo relacionado a arte e divulgação;
+Comprar junto com C++ -- https://www.nerdstickers.com.br/todos/apt-get-a-life/
+
+
+---> 25/04 e 01/05 ------- Revisar aulas e ementa;
+			   Mudar logo (alterar nome dos instrutores);
+--->           Começo da divulgação: Visitar Turmas (PTR) e instroduções eletrica, ciencia e eng comput, redes, mecatro;
+			   Divulgação: Facebook, Site ComSoc, 7 Banners (FT e ICC);
+			   Obs2.: Ver quanto custa Banners e colocar no TAP;
+               Administrativa: Reservar laboratórios por 3 semanas (2ª 20-22, 4ª 20-22 e 6ª 18-20), 
+			   Instalar software nas máquinas do laboratório;
+			   Reservar sala para a monitoria: terça 18:30h às 20:30h (Bruno), quinta 18:30h às 20:30h (Daniel);
+---> Software utilizado -- ISO (Maquina Virtual - debian -Mint ou Fedora-CentOS );
+			   
+---> Material ------------ Material (aulas) disponíveis no site da ComSoc 
+			   Obs.: Uma aula Subida por vez (no respectivo dia) e retirada no final da monitoria. Caso o aluno solicite
+			   a(s) aula(s) será(ão) enviada(s) por email, em qualquer momento do curso;
+			   Códigos das aulas e exercícios disponíveis no GitHub; Criar no git da comsoc;
+
+			   
+---> 07/05 --------------- começo do curso Linux
+---> 28/05 --------------- Término do Curso de Linux
